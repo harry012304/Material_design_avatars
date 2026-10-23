@@ -4,7 +4,7 @@ Create material deisgn avatars for users just like Google Messager.
 It may not be unique but looks better than Identicon or Gravatar.
 
 
-[Online Demo](http://www.94cb.com/Material-Design-Avatars/)
+
 
 Language Support
 ------------
